@@ -35,6 +35,6 @@ Just open `index.html` in your browser to launch the interactive portfolio.
 ## Credits
 
 Developed by vexylon.
-- Website: [https://vexylon.dev]([https://vexylon-does-dev-stuff.on.drv.tw/vexylon/]
+- Website: [https://vexylon.dev][https://vexylon-does-dev-stuff.on.drv.tw/vexylon/]
 - Email: [leonotdeo@gmail.com](leonotdeo@gmail.com)
 - Discord: vexylon
